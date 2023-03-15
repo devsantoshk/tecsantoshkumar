@@ -5,32 +5,6 @@
 <br>
 
 
-<p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
-  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://codeforces.com/profile/blue_edge>
-  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://twitter.com/blueedgetechno>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=mailto:blueedgetechno@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
-</a>
-
-<a target="_blank" href=https://blueedge.me >
-  <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
-  &nbsp;
-</a>
-</p>
 
 <hr>
 <h3 align="center">Show me your cards</h3>
@@ -82,15 +56,50 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-<p align="center">
-
-<img width="500" src="https://metrics.lecoq.io/blueedgetechno" alt="Github Metrics">
-  
 <br>
 
-</p>
+<table><tr><td valign="top" width="33%">
 
-<br>
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+</div>
+
+</td></tr></table>  
+
 
 |![](https://github-readme-stats.vercel.app/api?username=blueedgetechno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blueedgetechno&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
@@ -100,4 +109,30 @@
 ![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
 
 
+<p align="center">
+ <a target="_blank" href=https://github.com/blueedgetechno>
+  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://codeforces.com/profile/blue_edge>
+  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://twitter.com/blueedgetechno>
+  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=mailto:blueedgetechno@gmail.com>
+  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://blueedge.me >
+  <img height="25" width="25" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/pngegg.png" fill="#fff"/>
+  &nbsp;
+</a>
+</p>
 https://tecsantoshkumar63.github.io/tecsantoshkumar/
